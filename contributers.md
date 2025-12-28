@@ -70,5 +70,6 @@
 | Ahwan Sarkar           | ahwan84                  | IIIT Allahabad
 | Arushi Pandey         | Arushi2911     | NMIMS Chandigarh |
 | Thanusha Nallabelli   | thanusha17     | IIIT Allahabad   | 
+|Aman Sharma |          | amansharma264  |Sir M Visvesvaraya Institute of Technology                                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
